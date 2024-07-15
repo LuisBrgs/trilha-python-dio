@@ -1,0 +1,21 @@
+{
+    "data": "", 
+    "mes": "", 
+    "cpf": {
+        "senha": "", 
+        "nome": "", 
+        "email": "", 
+        "endereco": "", 
+        "contas": {
+            "nome": {
+                "agencia": 100,
+                "numero_conta": 0,
+                "saques": 0, 
+                "saldo": 0, 
+                "limite": 500, 
+                "extrato": "", 
+                "LIMITE_SAQUES": 3
+            }
+        }
+    }
+}
