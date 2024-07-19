@@ -1,0 +1,25 @@
+{
+    "data": "", 
+    "mes": "", 
+    "users": [
+        {
+            "CPF": "02547598723",
+            "senha": "senha123",
+            "nome": "João da Silva",
+            "email": "joao@email.com",
+            "endereco": "Rua Principal, 123",
+            "contas": [
+                {
+                    "nome_conta": "Corrente",
+                    "num_conta": "123456",
+                    "agencia": 100,
+                    "saques": 0,
+                    "saldo": 0,
+                    "limite": 500,
+                    "extrato": "",
+                    "LIMITE_SAQUES": 3
+                }
+            ]
+        }
+    ]
+}
